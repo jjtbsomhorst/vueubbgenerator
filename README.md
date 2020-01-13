@@ -1,6 +1,6 @@
-# todo-app
+# vue ubb generator
 
-> A Vue.js project
+a VueJS frontend for the ubbgenerator that is used on https://gathering.tweakers.net. 
 
 ## Build Setup
 
